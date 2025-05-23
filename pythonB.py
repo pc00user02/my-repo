@@ -4,3 +4,5 @@ def macroA():
     print(listA)
 
 macroA()
+
+liB = [5,6,7,8,9]
